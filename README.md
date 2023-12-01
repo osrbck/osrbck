@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osman</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="coding" width="500" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 
@@ -24,7 +24,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/osrbck"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="osrbck" /></a></p><br><br>
 
-<br/>
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osrbck&theme=dark" alt="osrbck" /></p>
