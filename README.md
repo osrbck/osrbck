@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osman</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 
