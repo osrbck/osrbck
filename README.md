@@ -36,10 +36,6 @@
 </p>
 
 <br>
-<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=osrbck&theme=dark" alt="osrbck" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=osrbck&show_icons=true&locale=en&layout=compact&theme=dark" alt="osrbck" /></p>
 
 
 <!--
