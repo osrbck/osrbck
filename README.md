@@ -3,9 +3,9 @@
 <br>
 
 <p>
-<a href="https://www.leetcode.com/mikeoskie" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mikeoskie" height="50" width="70" /></a>
-<a href="https://instagram.com/osrbck" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osrbck" height="50" width="70" /></a>
-<a href="https://linkedin.com/in/osmansaribacak" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmansaribacak" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/mikeoskie" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mikeoskie" height="40" /></a>
+<a href="https://instagram.com/osrbck" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osrbck" height="40" /></a>
+<a href="https://linkedin.com/in/osmansaribacak" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmansaribacak" height="40" /></a>
 </p>
 
 <h3 align="left">💬 Ask me about anything you want 🙌</h3>
